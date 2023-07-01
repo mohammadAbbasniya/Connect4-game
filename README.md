@@ -1,4 +1,4 @@
-# Full Option Connect4 Game 
+# Full Option Connect4 Game With Python 🎮 🐍
 This is a python package including an implementation of Connect 4 game with a medium-level artificial intelligence player developed using minimax algorithm (with **&alpha;&beta;** pruning). I’ve tried to separate different parts of the whole project into several classes in order to demonstrate the single responsibility principle.
 
 ## About Connect4
